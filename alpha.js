@@ -1,4 +1,4 @@
-//(async ()=>{
+
 /*
 # Edit owner di settings.js
 # Edit case / fitur di index.js
